@@ -1,0 +1,8 @@
+dateutil.relativedelta
+sqlalchemy
+psycopg2-binary
+bs4
+pandas
+numpy
+requests
+argparse
